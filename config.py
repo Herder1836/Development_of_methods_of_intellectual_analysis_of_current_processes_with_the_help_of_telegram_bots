@@ -40,7 +40,7 @@ HTTP_HEADERS = {
 }
 
 # --- Telegram ----------------------------------------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8861554706:AAEBAgOUXYZzYDNTopLMEN4T7mtSixbbP-U")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
 # URL міні-застосунку.
 WEBAPP_URL = os.getenv("WEBAPP_URL", "https://phoney-padding-gown.ngrok-free.dev")
